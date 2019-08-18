@@ -5429,6 +5429,7 @@ java.lang.NoSuchMethodError: org.eclipse.jdt.internal.ui.text.correction.AssistC
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2019-08-18 21:58:23.114
 !MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+<<<<<<< HEAD
 !SESSION 2019-08-18 22:45:31.267 -----------------------------------------------
 eclipse.buildId=3.9.7.201812201326-RELEASE-e410
 java.version=1.8.0_211
@@ -5690,3 +5691,5 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2019-08-18 22:47:33.709
 !MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+=======
+>>>>>>> 9fdb55fbbc60e66aa92bbdd28c1b30919f21d892
