@@ -270,7 +270,7 @@ var pageNum =1;
 			/* var endNum=Math.ceil(pageNum/10.0)*10;
 			var startNum = endNum-9; */
 			var endNum=Math.ceil(pageNum/2.0)*2;
-			var startNum = endNum-2;
+			var startNum = endNum-1;
 			
 			var prev = startNum != 1;
 			var next = false;
