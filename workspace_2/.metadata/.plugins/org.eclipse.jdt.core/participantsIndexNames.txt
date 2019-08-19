@@ -1,5 +1,6 @@
 INDEX VERSION 1.131
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\SpringProject\workspace_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2283159039.index
 =======
 D:\spring\workspace_1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\755943323.index
@@ -17,3 +18,7 @@ D:\spring\workspace_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4079
 D:\spring\workspace_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2283159039.index
 >>>>>>> 9fdb55fbbc60e66aa92bbdd28c1b30919f21d892
 \ex05\src\main\java
+=======
+D:\SpringProject\workspace_2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2283159039.index
+\ex05\src\main\java
+>>>>>>> 8-18
